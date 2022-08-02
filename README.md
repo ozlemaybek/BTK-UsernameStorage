@@ -46,7 +46,7 @@
 
 - Input girilip "SAVE" butonuna basıldığında:
 
-![image](https://user-images.githubusercontent.com/109730490/182404066-3c13ea44-4cb9-416d-bee6-af2b655b5c37.png)
+![image](https://user-images.githubusercontent.com/109730490/182406082-871bea50-47e7-4771-9a0a-6fcabc588a71.png)
 
 - "DELETE" butonuna basıldığında:
 
